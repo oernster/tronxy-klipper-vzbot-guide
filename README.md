@@ -47,6 +47,10 @@ Turn on Tronxy x5sa.
 
 It should beep twice when the firmware has been flashed; there will be nothing on the screen.
 
+Turn off printer.
+
+Remove SD card; you will no longer need it but keep it safe.
+
 # Klipper config / Mainsail setup on pi
 
 Copy this repo's klipper_config/printer.cfg file to your pi either using putty or scp (secure copy) and put it into the directory /home/<username which might be pi>/klipper_config/
