@@ -80,3 +80,13 @@ If, for some reason, your mainsail reports an mcu error then it's likely your pi
 To fix this ssh into the pi (ssh <username>@<IP address from fing> and enter your password)
 
 Now enter: 'ls /dev/serial/by-id' (make sure no cameras or other USB devices are connected first, only the printer.  Then copy the text you see into the mcu section in printer.cfg, matching the existing format in the printer.cfg file I've provided. 
+  
+# cura profile
+
+I have provided a reasonably fast curaprofile for PLA which shouldn't create any z banding etc. on the tronxy.
+  
+# Future options
+  
+Consider upgrading to triple z for easier bed levelling.
+  
+Consider upgrading to a VzBot (Which I will be doing) for a gravity defying speedy printer: https://github.com/VzBoT3D/VzBoT-Vz330
