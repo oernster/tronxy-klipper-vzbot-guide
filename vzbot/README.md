@@ -15,7 +15,7 @@ casing and furthermore, I have picked up all the parts for doing the
 Triple Z mod to remove levelling pain.
 
 Here is a build guide (it’s for the pro (DO NOT BUY THE PRO, IT’S A WORSE 
-PRINTER!!!)…
+PRINTER!!!) - Notably the Pro is much harder to upgrade to a VzBot...
 https://www.youtube.com/watch?v=UN-2KeuzAKs
 You may find this video of interest too in case you want to see what the 
 printer looks like before purchase; also, he shows some example prints he 
