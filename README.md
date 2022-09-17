@@ -89,4 +89,6 @@ I have provided a reasonably fast curaprofile for PLA which shouldn't create any
   
 Consider upgrading to triple z for easier bed levelling.
   
-Consider upgrading to a VzBot (Which I will be doing) for a gravity defying speedy printer: https://github.com/VzBoT3D/VzBoT-Vz330
+Consider upgrading to a VzBot (Which I will be doing) for a gravity 
+defying speedy printer:
+https://github.com/oernster/tronxy-klipper-setup/tree/main/vzbot
